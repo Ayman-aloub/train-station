@@ -1,0 +1,64 @@
+#nav
+{
+    color: white;
+}
+#h1head
+{
+    padding-top: 20px;
+}
+.lab1
+{
+    margin-right: 520px;
+}
+.lab2
+{
+    margin-right: 490px;
+}
+table { 
+     width: 70%; 
+} 
+table th { 
+    padding: 10px; 
+    background-color: #48577D; 
+    color: #fff; 
+    text-align: left; 
+  } 
+              
+table td { 
+      padding: 5px; 
+            } 
+table tr { 
+      background-color: #d3dcf2; 
+  }
+.hii
+{
+    border-radius: 10px;
+    background-color:#eee;
+    width: 70%;
+    padding: 20px;
+    margin: 10px;
+}
+#tt
+{
+    padding-right: 150px;
+}
+.rr
+{
+    padding: 10px;
+    margin: 5px;
+    background-color:  #d3dcf2; 
+}
+{
+/*
+    background-color: #EEEEEE;
+    margin: 0 auto;
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    direction: rtl;
+    background: url('hool.png'), url('toot_toot.png'), url('cairoTower.png');
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 80% , 30%, 20%;
+    background-position: center, bottom left, bottom right;
+*/
+}
